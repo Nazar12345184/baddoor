@@ -1,6 +1,11 @@
+import os
+import sys
+
 from ursina import *
 from ursina.prefabs.first_person_controller import FirstPersonController
 
+if getattr(sys, 'frozen', False):
+    os.chdir(sys._MEIPASS)
 
 app = Ursina()
 
@@ -439,7 +444,7 @@ player = FirstPersonController(collider="box")
 
 def input(key):
     if key == 'escape':
-        exit()
+        application.quit()
     if key == 'f':
         sound16.stop()
     if key =='shift':

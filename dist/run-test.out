@@ -1,0 +1,166 @@
+info: Using primary monitor: Monitor(x=0, y=0, width=1920, height=1080, width_mm=344, height_mm=193, name='\\\\.\\DISPLAY1', is_primary=True)
+set window position: Vec2(192, 108)
+package_folder: C:\Users\BB3F~1\AppData\Local\Temp\_MEI000043ac2\ursina
+asset_folder: C:\Users\Користувач\Desktop\myprogramsdonttouch\games\baddoor\dist
+no audio found with name: Elevator.mp3 supported formats: .ogg, .wav
+[93mwarning: missing audio clip: Elevator.mp3 [0m
+no audio found with name: dooropen.mp3 supported formats: .ogg, .wav
+[93mwarning: missing audio clip: dooropen.mp3 [0m
+no audio found with name: loby.mp3 supported formats: .ogg, .wav
+[93mwarning: missing audio clip: loby.mp3 [0m
+no audio found with name: liftend.mp3 supported formats: .ogg, .wav
+[93mwarning: missing audio clip: liftend.mp3 [0m
+no audio found with name: redkey.mp3 supported formats: .ogg, .wav
+[93mwarning: missing audio clip: redkey.mp3 [0m
+no audio found with name: pip.mp3 supported formats: .ogg, .wav
+[93mwarning: missing audio clip: pip.mp3 [0m
+no audio found with name: bm.mp3 supported formats: .ogg, .wav
+[93mwarning: missing audio clip: bm.mp3 [0m
+no audio found with name: seek.mp3 supported formats: .ogg, .wav
+[93mwarning: missing audio clip: seek.mp3 [0m
+no audio found with name: seekend.mp3 supported formats: .ogg, .wav
+[93mwarning: missing audio clip: seekend.mp3 [0m
+no audio found with name: sc.mp3 supported formats: .ogg, .wav
+[93mwarning: missing audio clip: sc.mp3 [0m
+no audio found with name: rush.mp3 supported formats: .ogg, .wav
+[93mwarning: missing audio clip: rush.mp3 [0m
+no audio found with name: rushstart.mp3 supported formats: .ogg, .wav
+[93mwarning: missing audio clip: rushstart.mp3 [0m
+no audio found with name: figv.mp3 supported formats: .ogg, .wav
+[93mwarning: missing audio clip: figv.mp3 [0m
+no audio found with name: fgdr.mp3 supported formats: .ogg, .wav
+[93mwarning: missing audio clip: fgdr.mp3 [0m
+no audio found with name: fgd.mp3 supported formats: .ogg, .wav
+[93mwarning: missing audio clip: fgd.mp3 [0m
+no audio found with name: YOU WIN.mp3 supported formats: .ogg, .wav
+[93mwarning: missing audio clip: YOU WIN.mp3 [0m
+[93mwarning: missing texture: 'ort.jpg' [0m
+[93mwarning: missing texture: 'ort.jpg' [0m
+[93mwarning: missing texture: 'lift.jpg' [0m
+[93mwarning: missing texture: 'ort.jpg' [0m
+[93mwarning: missing texture: 'ort.jpg' [0m
+[93mwarning: missing texture: 'ort.jpg' [0m
+[93mwarning: missing texture: 'ort.jpg' [0m
+[93mwarning: missing texture: 'ort.jpg' [0m
+[93mwarning: missing texture: 'liftstop.jpg' [0m
+[93mwarning: missing texture: 'images.jpg' [0m
+[93mwarning: missing texture: 'images.jpg' [0m
+[93mwarning: missing texture: 'images.jpg' [0m
+[93mwarning: missing texture: '0.jpg' [0m
+[93mwarning: missing texture: '01.jpg' [0m
+[93mwarning: missing texture: 'pol.jpg' [0m
+[93mwarning: missing texture: 'stina.jpg' [0m
+[93mwarning: missing texture: 'stina.jpg' [0m
+[93mwarning: missing texture: 'stina.jpg' [0m
+[93mwarning: missing texture: 'stina.jpg' [0m
+[93mwarning: missing texture: 'potolok.jpg' [0m
+[93mwarning: missing texture: '002.jpg' [0m
+[93mwarning: missing model: 'tinker.obj' [0m
+[93mwarning: missing model: 'tinker.obj' [0m
+[93mwarning: missing texture: 'pol.jpg' [0m
+[93mwarning: missing texture: 'pol.jpg' [0m
+[93mwarning: missing texture: 'stina.jpg' [0m
+[93mwarning: missing texture: 'stina.jpg' [0m
+[93mwarning: missing texture: 'stina.jpg' [0m
+[93mwarning: missing texture: 'stina.jpg' [0m
+[93mwarning: missing texture: 'stina.jpg' [0m
+[93mwarning: missing texture: 'stina.jpg' [0m
+[93mwarning: missing texture: '03.jpg' [0m
+[93mwarning: missing model: 'tinker.obj' [0m
+[93mwarning: missing texture: 'bluekey.jpg' [0m
+[93mwarning: missing texture: 'potolok.jpg' [0m
+[93mwarning: missing texture: 'potolok.jpg' [0m
+[93mwarning: missing model: 'tinker.obj' [0m
+[93mwarning: missing texture: 'bluekey.jpg' [0m
+[93mwarning: missing model: 'Seek.obj' [0m
+[93mwarning: missing texture: 'pol.jpg' [0m
+[93mwarning: missing texture: '004.jpg' [0m
+[93mwarning: missing texture: 'potolok.jpg' [0m
+[93mwarning: missing texture: 'stina.jpg' [0m
+[93mwarning: missing texture: 'stina.jpg' [0m
+[93mwarning: missing texture: 'pol.jpg' [0m
+[93mwarning: missing texture: 'stina.jpg' [0m
+[93mwarning: missing texture: 'stina.jpg' [0m
+[93mwarning: missing texture: 'potolok.jpg' [0m
+[93mwarning: missing texture: '005.jpg' [0m
+[93mwarning: missing texture: 'pol.jpg' [0m
+[93mwarning: missing texture: 'stina.jpg' [0m
+[93mwarning: missing texture: 'stina.jpg' [0m
+[93mwarning: missing texture: 'cldr.jpg' [0m
+[93mwarning: missing texture: 'potolok.jpg' [0m
+[93mwarning: missing texture: '006.jpg' [0m
+[93mwarning: missing texture: 'ima.png' [0m
+[93mwarning: missing texture: 'stina.jpg' [0m
+[93mwarning: missing texture: 'stina.jpg' [0m
+[93mwarning: missing texture: 'potolok.jpg' [0m
+[93mwarning: missing texture: '007.jpg' [0m
+[93mwarning: missing texture: 'ima.png' [0m
+[93mwarning: missing texture: 'ima.png' [0m
+[93mwarning: missing texture: 'potolok.jpg' [0m
+[93mwarning: missing texture: 'potolok.jpg' [0m
+[93mwarning: missing texture: 'stina.jpg' [0m
+[93mwarning: missing texture: 'stina.jpg' [0m
+[93mwarning: missing texture: 'stina.jpg' [0m
+[93mwarning: missing texture: 'stina.jpg' [0m
+[93mwarning: missing texture: 'stina.jpg' [0m
+[93mwarning: missing texture: 'stina.jpg' [0m
+[93mwarning: missing texture: 'stina.jpg' [0m
+[93mwarning: missing texture: 'stina.jpg' [0m
+[93mwarning: missing texture: '00922.jpg' [0m
+[93mwarning: missing texture: '00722.jpg' [0m
+[93mwarning: missing texture: '008.jpg' [0m
+[93mwarning: missing texture: 'кгір.jpg' [0m
+[93mwarning: missing texture: 'sfrm.png' [0m
+[93mwarning: missing texture: 'pol.jpg' [0m
+[93mwarning: missing texture: 'stina.jpg' [0m
+[93mwarning: missing texture: 'stina.jpg' [0m
+[93mwarning: missing texture: 'potolok.jpg' [0m
+[93mwarning: missing texture: '00922.jpg' [0m
+[93mwarning: missing model: 'tinker.obj' [0m
+[93mwarning: missing model: 'tinker.obj' [0m
+[93mwarning: missing texture: 'ort.jpg' [0m
+[93mwarning: missing texture: 'ort.jpg' [0m
+[93mwarning: missing texture: 'ort.jpg' [0m
+[93mwarning: missing texture: '010.jpg' [0m
+[93mwarning: missing texture: 'ort.jpg' [0m
+[93mwarning: missing texture: 'tem.jpg' [0m
+[93mwarning: missing texture: 'tem.jpg' [0m
+[93mwarning: missing texture: 'temp.jpg' [0m
+[93mwarning: missing texture: 'tem.jpg' [0m
+[93mwarning: missing texture: 'tem.jpg' [0m
+[93mwarning: missing texture: 'tem.jpg' [0m
+[93mwarning: missing texture: 'tem.jpg' [0m
+[93mwarning: missing texture: 'tem.jpg' [0m
+[93mwarning: missing texture: 'temp.jpg' [0m
+[93mwarning: missing texture: 'tem.jpg' [0m
+[93mwarning: missing texture: 'tem.jpg' [0m
+[93mwarning: missing texture: 'tem.jpg' [0m
+[93mwarning: missing texture: 'tem.jpg' [0m
+[93mwarning: missing texture: 'tem.jpg' [0m
+[93mwarning: missing texture: 'tem.jpg' [0m
+[93mwarning: missing texture: 'tem.jpg' [0m
+[93mwarning: missing texture: 'tem.jpg' [0m
+[93mwarning: missing texture: 'tem.jpg' [0m
+[93mwarning: missing texture: 'tem.jpg' [0m
+[93mwarning: missing texture: 'tem.jpg' [0m
+[93mwarning: missing texture: 'fig.jpg' [0m
+[93mwarning: missing texture: 'fig.jpg' [0m
+[93mwarning: missing texture: 'tem.jpg' [0m
+[93mwarning: missing texture: 'tem.jpg' [0m
+[93mwarning: missing texture: 'tem.jpg' [0m
+[93mwarning: missing texture: 'fig.jpg' [0m
+[93mwarning: missing texture: 'tbk.png' [0m
+[93mwarning: missing texture: 'ppooiiuuyytt.png' [0m
+[93mwarning: missing texture: 'ppooiiuuyytt.png' [0m
+[93mwarning: missing texture: 'ppooiiuuyytt.png' [0m
+[93mwarning: missing texture: 'ppooiiuuyytt.png' [0m
+[93mwarning: missing texture: 'ppooiiuuyytt.png' [0m
+[93mwarning: missing texture: 'ppooiiuuyytt.png' [0m
+[93mwarning: missing texture: 'deah.jpg' [0m
+[93mwarning: missing texture: 'yw.jpg' [0m
+os: Windows
+python version: 3.14.3 (tags/v3.14.3:323c59a, Feb  3 2026, 16:04:56) [MSC v.1944 64 bit (AMD64)]
+ursina version: 8.3.0
+development mode: True
+application successfully started
+info: changed aspect ratio: 1.778 -> 1.778
